@@ -27,7 +27,7 @@ const WorkProcess = () => {
                             height="500px"
                             controls={true}
                             controlsList="nodownload"
-                            autoPlay={true}
+                            autoPlay={false}
                             loop={true}
                         >
                             <source

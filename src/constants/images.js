@@ -1,5 +1,4 @@
 import header_bg from '../assets/images/header-bg.jpg';
-import logo from '../assets/images/logo.png';
 import logo_rapi from '../assets/images/logo-rapi.jpg';
 import logo_rapi_short from '../assets/images/logo-rapi-movil.png';
 import icon_console from '../assets/images/icon-console.png';
@@ -27,7 +26,6 @@ import work_8 from '../assets/images/work-8.jpg';
 
 const images = {
     header_bg,
-    logo,
     logo_rapi,
     logo_rapi_short,
     icon_console,

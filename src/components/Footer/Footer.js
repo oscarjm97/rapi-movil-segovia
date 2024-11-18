@@ -42,7 +42,7 @@ const Footer = () => {
                                         src={images.icon_whatsapp}
                                         alt="WhatsApp"
                                     />
-                                    <a href="tel:+34643363847">
+                                    <a href="tel:+34622585717">
                                         +34 622 58 57 17
                                     </a>
                                 </div>

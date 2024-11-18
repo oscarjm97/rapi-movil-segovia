@@ -1,6 +1,6 @@
 import Header from './components/Header/Header';
 import AboutUs from './components/AboutUs/AboutUs';
-// import Work from './components/Work/Work';
+import Work from './components/Work/Work';
 import WorkProcess from './components/WorkProcess/WorkProcess';
 import Services from './components/Services/Services';
 import Testimonials from './components/Testimonials/Testimonials';
@@ -15,7 +15,7 @@ function App() {
             <Header />
             <AboutUs />
             <Services />
-            {/* <Work /> */}
+            <Work />
             <WorkProcess />
             <Testimonials />
             <Contact />
