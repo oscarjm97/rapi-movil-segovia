@@ -27,7 +27,6 @@ const Work = () => {
         };
     }, [isImageModalOpened]);
 
-
     const setImageOnModal = (src) => {
         setImageSrc(src);
         setIsImageModalOpened(true);

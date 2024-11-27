@@ -36,19 +36,19 @@
     opacity: 1;
 }
 
-@media screen and (min-width: 678px) {
+@media screen and (min-width: 360px) {
     .work__content {
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 768px) {
     .work__content {
         grid-template-columns: repeat(3, 1fr);
     }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 992px) {
     .work__content {
         grid-template-columns: repeat(4, 1fr);
     }

@@ -29,11 +29,15 @@
         grid-template-columns: repeat(2, 1fr);
         column-gap: 4rem;
     }
+
+    .mr-auto {
+        margin-right: auto;
+    }
 }
 
 @media screen and (min-width: 992px) {
     .footer__content {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 

@@ -22,6 +22,10 @@
     display: grid;
 }
 
+.align__baseline {
+    align-items: baseline;
+}
+
 /* section */
 .section__title {
     margin-bottom: 4rem;
@@ -146,10 +150,6 @@
 
 .ls__2 {
     letter-spacing: 2px;
-}
-
-.grid {
-    display: grid;
 }
 
 .text-center {
